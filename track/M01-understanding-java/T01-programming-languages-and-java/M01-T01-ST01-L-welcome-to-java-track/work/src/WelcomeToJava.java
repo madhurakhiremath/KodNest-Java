@@ -1,7 +1,13 @@
 public class WelcomeToJava {
     public static void main(String[] args) {
-       System.out.println("Welcome to Java Track");
-       System.out.println("I already know how to build programming logic.");
-       System.out.println("Now I am learning how to express the logic using java.");
+       System.out.println("Monday");
+       System.out.println("TuesdayWednesday");
+       System.out.println("Thursday");
+       System.out.println("FridaySaturday");
+       System.out.println("SundayHoliday");
+       System.out.println("Monday");
+       System.out.println("WelCome to KodNest");
+       System.out.println("Good morning");
+       System.out.println("Hi");
     }
 }
